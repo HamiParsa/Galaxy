@@ -3,7 +3,7 @@
   <h1>🌌 Galaxy Project</h1>
   <p>Explore the universe — interactive galaxies, stars, and constellations ✨</p>
   <a href="https://hamiparsa.github.io/Galaxy/">
-    <img src="https://img.shields.io/badge/View_Live_Project-1DB954?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Live_Project-blue?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
