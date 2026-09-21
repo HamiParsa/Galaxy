@@ -1,4 +1,5 @@
 
+
 <div align="center">
   <h1>🌌 Galaxy Project</h1>
   <p>Explore the universe — interactive galaxies, stars, and constellations ✨</p>
